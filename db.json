@@ -1,1 +1,18 @@
-{"Items":[{"logEventKey":"rashad.moawad@gmail.com-1640199621031-0.562623468727631","eventObject":"action_log","logData":{"productId":8,"type":"simple"},"logSection":"Inventory section","userEmail":"rashad.moawad@gmail.com","clientSchemaName":"db_client_raslocal","message":"Deleted product testde","logAction":"Delete product","eventDate":"1640199621031"}],"Count":1,"ScannedCount":1} 
+{
+	"Items": [{
+		"logEventKey": "rashad.moawad@gmail.com-1640199621031-0.562623468727631",
+		"eventObject": "action_log",
+		"logData": {
+			"productId": 8,
+			"type": "simple"
+		},
+		"logSection": "Inventory section",
+		"userEmail": "rashad.moawad@gmail.com",
+		"clientSchemaName": "db_client_raslocal",
+		"message": "Deleted product testde",
+		"logAction": "Delete product",
+		"eventDate": "1640199621031"
+	}],
+	"Count": 1,
+	"ScannedCount": 1
+}
